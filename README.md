@@ -1,7 +1,7 @@
 # Personal-Finance-Tracker
 Team Members:
-Gollapalli Vinay Jyothi
-Khaja Nayab Rasool shaik
-Ragipindi Rama koti
-kodepati Sowmya
-Madhu Sri
+Vinay Jyothi Gollapalli
+Khaja Nayab Rasool Shaik
+Rama Koti Ragipindi
+Sowmya Kondepati
+Madhusree Kurri
