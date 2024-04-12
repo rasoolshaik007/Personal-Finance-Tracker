@@ -11,7 +11,7 @@ Sowmya Kondepati
 
 Madhushree Kurri
 
-Application Information as follows:
+Application Information of this project as follows:
 
 Test Credentials: Test credentials for a personal finance tracker might include usernames, passwords, or API keys that grant access to a test account with sample data. These credentials would allow testers or developers to explore the features and functionalities of the application without risking real financial data.
 
